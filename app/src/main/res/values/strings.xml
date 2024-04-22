@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">GatoPuto</string>
+    <string name="tittle">A Day In The Life Of Tom</string>
+    <string name="start">Start</string>
+    <string name="lets_get_acquainted">Hello!, My name is Jack. And you?</string>
+    <string name="last_page">Thanks for playing</string>
+    <string name="repeat_game">repeat the game</string>
+    <string name="walking">Walking</string>
+    <string name="hiking">Hiking</string>
+    <string name="go_to_the_field">Go to the field</string>
+    <string name="page_4_tittle">May be, go home?</string>
+    <string name="page_5_tittle">How cozy... But it\'s already getting dark...</string>
+    <string name="page_6_tittle">You are sad... Let\'s go home?</string>
+    <string name="page_7_tittle">Do you like this film?</string>
+    <string name="page_8_tittle">Very beautiful!</string>
+    <string name="page_9_tittle">Great, It\'s time to sleep!</string>
+    <string name="page_10_tittle">Maybe go sleep?</string>
+    <string name="page_11_tittle">I like your costume!</string>
+    <string name="page_12_tittle">Thank you! Let\'s go to sleep.</string>
+    <string name="page_13_tittle">It\'s ok, I\'m not taking offence. Let\'s go to sleep!</string>
+    <string name="page_4_text1">Yes, and watch the film</string>
+    <string name="page_5_text1">Go home and watch the film</string>
+    <string name="page_6_text1">Maybe, let\'s watch the film?</string>
+    <string name="page_7_text1">I like it!</string>
+    <string name="page_8_text1">Yes! Let\'s watch a film!</string>
+    <string name="page_9_10_text1">Yes, It\'s too late...</string>
+    <string name="page_11_text1">Your costume is beautiful too!</string>
+    <string name="page_12_13_text1">Yes, It\'s too late</string>
+    <string name="page_4_text2">Yes, and celebrate halloween</string>
+    <string name="page_5_text2">Go home and celebrate halloween</string>
+    <string name="page_6_text2">Yes, let\'s celebrate halloween</string>
+    <string name="page_7_text2">No...</string>
+    <string name="page_8_text2">Yes! Let\'s create a costume!</string>
+    <string name="page_11_text2">To be honest, I don\'t like your...</string>
+</resources>
